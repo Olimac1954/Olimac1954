@@ -7,14 +7,21 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+🇬🇧 English:
+🎓 I am a Technologist in Software Analysis and Development.
+🇨🇴 I studied in the MINTIC 2022 program in Colombia.
+💻 Passionate about programming, always eager to learn and grow.
+🚀 I am currently looking for job opportunities.
+🛠️ I have experience with Angular and Node.js, and I’m beginning to learn .NET.
+📚 Committed to continuous learning in the world of software development.
+
+🇪🇸 Español:
+🎓 Soy Tecnólogo en Análisis y Desarrollo de Software.
+🇨🇴 Estudié en el programa MINTIC 2022 en Colombia.
+💻 Apasionado por la programación, siempre buscando aprender y mejorar.
+🚀 Actualmente estoy en busca de oportunidades laborales.
+🛠️ Tengo experiencia con Angular y Node.js, y estoy empezando a aprender .NET.
+📚 Comprometido con el aprendizaje continuo en el mundo del desarrollo de software.
 <br>
 
 
