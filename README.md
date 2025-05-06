@@ -8,9 +8,9 @@
  <br><br>
 
 🇬🇧 English
--:mortar_board: I am a Technologist in Software Analysis and Development.
+- :mortar_board: I am a Technologist in Software Analysis and Development.
 
--:colombia: I studied in the MINTIC 2022 program in Colombia.
+- :colombia: I studied in the MINTIC 2022 program in Colombia.
 
 -:technologist: I’m passionate about programming, always eager to learn and grow.
 
