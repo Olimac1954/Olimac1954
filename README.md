@@ -1,5 +1,5 @@
-## Hi, my name is camilo andres ortegon ayala👋
-
+<h1 align="center">Hi , Hi, my name is camilo andres ortegon ayala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
 <!--
 **Olimac1954/Olimac1954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
