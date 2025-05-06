@@ -5,23 +5,35 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+ <br><br>
+
+🇬🇧 English
+:mortar_board: I am a Technologist in Software Analysis and Development.
+
+:colombia: I studied in the MINTIC 2022 program in Colombia.
+
+:technologist: I’m passionate about programming, always eager to learn and grow.
+
+:rocket: I’m currently looking for a new job opportunity.
+
+:wrench: I have experience with Angular and Node.js, and I’m starting to learn .NET.
+
+:books: Committed to continuous learning in the world of software development.
+
 <br><br>
 
-🇬🇧 English:
-🎓 I am a Technologist in Software Analysis and Development.
-🇨🇴 I studied in the MINTIC 2022 program in Colombia.
-💻 Passionate about programming, always eager to learn and grow.
-🚀 I am currently looking for job opportunities.
-🛠️ I have experience with Angular and Node.js, and I’m beginning to learn .NET.
-📚 Committed to continuous learning in the world of software development.
+🇪🇸 Español
+:mortar_board: Soy Tecnólogo en Análisis y Desarrollo de Software.
 
-🇪🇸 Español:
-🎓 Soy Tecnólogo en Análisis y Desarrollo de Software.
-🇨🇴 Estudié en el programa MINTIC 2022 en Colombia.
-💻 Apasionado por la programación, siempre buscando aprender y mejorar.
-🚀 Actualmente estoy en busca de oportunidades laborales.
-🛠️ Tengo experiencia con Angular y Node.js, y estoy empezando a aprender .NET.
-📚 Comprometido con el aprendizaje continuo en el mundo del desarrollo de software.
+:colombia: Estudié en el programa MINTIC 2022 en Colombia.
+
+:technologist: Apasionado por la programación, siempre buscando aprender y mejorar.
+
+:rocket: Actualmente estoy en busca de una nueva oportunidad laboral.
+
+:wrench: Tengo experiencia con Angular y Node.js, y estoy empezando a aprender .NET.
+
+:books: Comprometido con el aprendizaje continuo en el mundo del desarrollo de software.
 <br>
 
 
