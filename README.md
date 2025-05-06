@@ -10,7 +10,7 @@ EN
 - :mortar_board: I am a Technologist in Software Analysis and Development.
 - :colombia: I studied in the MINTIC 2022 program in Colombia.
 - :technologist: I’m passionate about programming, always eager to learn and grow.
-- :rocket: I’m currently looking for a new job opportunity.
+- :rocket: I’m currently looking for new job opportunities and learning experiences.
 - :wrench: I have experience with Angular and Node.js, and I’m starting to learn .NET.
 - :books: Committed to continuous learning in the world of software development.
 
@@ -19,7 +19,7 @@ ES
 - :mortar_board: Soy Tecnólogo en Análisis y Desarrollo de Software.
 - :colombia: Estudié en el programa MINTIC 2022 en Colombia.
 - :technologist: Apasionado por la programación, siempre buscando aprender y mejorar.
-- :rocket: Actualmente estoy en busca de una nueva oportunidad laboral.
+- :rocket: Actualmente estoy en busca de nuevas oportunidades laborales y aprendizajes.
 - :wrench: Tengo experiencia con Angular y Node.js, y estoy empezando a aprender .NET.
 - :books: Comprometido con el aprendizaje continuo en el mundo del desarrollo de software.
 <br>
