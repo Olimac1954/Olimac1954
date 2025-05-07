@@ -5,7 +5,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
- <br>
+ <br><br>
 EN
 - :mortar_board: I am a Technologist in Software Analysis and Development.
 - :colombia: I studied in the MINTIC 2022 program in Colombia.
