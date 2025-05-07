@@ -36,6 +36,7 @@ ES
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </span>
 
 <h4> Databases </h4>
