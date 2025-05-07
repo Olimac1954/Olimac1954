@@ -5,8 +5,8 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
- <br><br>
-EN
+ <br><br
+ ## EN
 - :mortar_board: I am a Technologist in Software Analysis and Development.
 - :colombia: I studied in the MINTIC 2022 program in Colombia.
 - :technologist: I’m passionate about programming, always eager to learn and grow.
@@ -15,7 +15,7 @@ EN
 - :books: Committed to continuous learning in the world of software development.
 
 <br><br>
-ES
+## ES
 - :mortar_board: Soy Tecnólogo en Análisis y Desarrollo de Software.
 - :colombia: Estudié en el programa MINTIC 2022 en Colombia.
 - :technologist: Apasionado por la programación, siempre buscando aprender y mejorar.
